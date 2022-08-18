@@ -11,3 +11,6 @@ docker run \
   -v "$HOME":/home \
   jenkinsci/blueocean
   ```
+
+## Jenkinsfile-dockerfile build image on the fly
+`Jenkinsfile-dockerfile` add customerized env files in dockerfile
